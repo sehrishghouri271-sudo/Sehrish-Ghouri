@@ -358,3 +358,8 @@ section a:hover {
     direction: rtl;
     line-height: 2.2;
 }
+.hero-title {
+    font-size: 52px;
+    line-height: 2;
+    font-weight: normal;
+}
