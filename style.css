@@ -259,3 +259,54 @@ section a:hover {
         grid-template-columns: 1fr;
     }
 }
+.latest {
+    padding: 100px 12%;
+    background-color: #f6f1e8;
+    text-align: center;
+}
+
+.latest h2 {
+    font-size: 45px;
+    font-weight: normal;
+    color: #3f5142;
+    margin: 15px 0 45px;
+}
+
+.latest-content {
+    max-width: 850px;
+    margin: auto;
+    background-color: #3f5142;
+    color: white;
+    padding: 55px 60px;
+    text-align: left;
+}
+
+.latest-label {
+    font-size: 12px;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+}
+
+.latest-content h3 {
+    font-size: 38px;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+
+.latest-content p {
+    font-size: 16px;
+    max-width: 650px;
+    margin-bottom: 25px;
+}
+
+.latest-content a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid #b89b72;
+    padding-bottom: 4px;
+}
+
+.latest-content a:hover {
+    color: #b89b72;
+}
