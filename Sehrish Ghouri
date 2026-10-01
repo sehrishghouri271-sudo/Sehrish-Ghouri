@@ -1,1 +1,700 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <title>Sehrish Ghouri | Writer</title>
+
+    <!-- Nastaleeq Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- NAVIGATION -->
+    <header class="navbar">
+        <div class="logo">Sehrish Ghouri</div>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#nayab">نایاب</a>
+            <a href="#writing">Writing</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+
+    <!-- HERO -->
+    <section class="hero" id="home">
+
+        <div class="hero-content">
+            <p class="small-heading">WORDS • STORIES • THOUGHTS</p>
+
+            <h1>کہانیاں جو دل میں رہ جائیں</h1>
+
+            <p class="hero-text">
+                میری تحریروں کی دنیا میں خوش آمدید۔
+                یہاں ناول، افسانے، بلاگز اور بہت کچھ پڑھنے کو ملے گا۔
+            </p>
+
+            <a href="#nayab" class="button">Explore My Writing</a>
+        </div>
+
+    </section>
+
+
+    <!-- ABOUT -->
+    <section class="about" id="about">
+
+        <div class="section-label">ABOUT THE AUTHOR</div>
+
+        <div class="about-content">
+
+            <div class="about-text">
+
+                <h2>Sehrish Ghouri</h2>
+
+                <p>
+                    This is the beginning of my official writing era.
+                </p>
+
+                <p>
+                    I write Urdu novels, afsane, blogs, and more—
+                    making my work easily accessible to readers in PDF form.
+                    My first novel is currently being released episodically,
+                    marking the very first step in my journey as a writer.
+                </p>
+
+                <p>
+                    For me, writing is an interesting hobby, a way to create
+                    stories, explore ideas, and put feelings into words.
+                    I have always enjoyed reading books, but I especially
+                    love talking about them.
+                </p>
+
+                <a href="#" class="text-link">Read More →</a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- NAYAB -->
+    <section class="nayab" id="nayab">
+
+        <div class="nayab-content">
+
+            <div class="section-label">FEATURED WORK</div>
+
+            <h2>تم نایاب ہو</h2>
+
+            <div class="urdu-description">
+
+                <p>
+                    <strong>تم نایاب ہو</strong> کسی ایک شخص کی کہانی نہیں۔
+                </p>
+
+                <p>
+                    یہ اُن لوگوں کی کہانی ہے جو ایک دوسرے سے بالکل مختلف ہیں—
+                    پھر بھی کہیں نہ کہیں ایک دوسرے کا عکس نظر آ جاتا ہے۔
+                </p>
+
+                <p>
+                    ایک شادی، پرانے رشتے اور نئے ملنے والے لوگ…
+                    اور پھر ایک ایسی کہانی جہاں ہر کردار اپنی جگہ کچھ کہہ رہا ہے۔
+                </p>
+
+                <p>
+                    یہ کہانی صرف محبت کے گرد نہیں گھومتی۔
+                    اس میں ہنسنے کے مواقع ہیں، الجھنیں ہیں،
+                    کچھ ایسے لوگ ہیں جنہیں سمجھنا آسان نہیں…
+                    اور شاید کچھ ایسی باتیں بھی جو آپ کو اپنے بارے میں
+                    سوچنے پر مجبور کر دیں۔
+                </p>
+
+                <p>
+                    کیونکہ ہر کردار ایک جیسا نہیں ہوتا۔<br>
+                    ہر کہانی ایک جیسی نہیں ہوتی۔
+                </p>
+
+                <p class="ending">
+                    اور شاید… <strong>تم بھی نایاب ہو۔</strong>
+                </p>
+
+            </div>
+
+            <a href="#" class="button">Read Nayab</a>
+
+        </div>
+
+    </section>
+
+
+    <!-- LATEST EPISODE -->
+    <section class="episode">
+
+        <div class="section-label">LATEST EPISODE</div>
+
+        <h2>نایاب — Episode 01</h2>
+
+        <p>
+            The story begins here.
+        </p>
+
+        <a href="#" class="text-link">Read Episode →</a>
+
+    </section>
+
+
+    <!-- WRITING -->
+    <section class="writing" id="writing">
+
+        <div class="section-label">FROM MY DESK</div>
+
+        <h2>More than just stories.</h2>
+
+        <div class="writing-grid">
+
+            <div class="writing-card">
+                <span>01</span>
+                <h3>Novels</h3>
+                <p>Urdu novels and episodic stories.</p>
+            </div>
+
+            <div class="writing-card">
+                <span>02</span>
+                <h3>Afsane</h3>
+                <p>Short stories and little worlds of their own.</p>
+            </div>
+
+            <div class="writing-card">
+                <span>03</span>
+                <h3>Blogs</h3>
+                <p>Thoughts, observations and things worth talking about.</p>
+            </div>
+
+            <div class="writing-card">
+                <span>04</span>
+                <h3>Tabsara</h3>
+                <p>Books I've read and the thoughts they left behind.</p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- CONTACT -->
+    <section class="contact" id="contact">
+
+        <div class="section-label">STAY CONNECTED</div>
+
+        <h2>Let's talk books.</h2>
+
+        <p>
+            Follow along for new stories, episodes and writing updates.
+        </p>
+
+        <div class="socials">
+            <a href="#">Instagram</a>
+            <a href="#">TikTok</a>
+            <a href="#">Goodreads</a>
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+        <div class="footer-name">Sehrish Ghouri</div>
+
+        <p>Write. Read. Feel.</p>
+
+        <p class="copyright">
+            © 2026 Sehrish Ghouri. All rights reserved.
+        </p>
+
+    </footer>
+
+</body>
+</html>
+/* =========================
+   BASIC SETTINGS
+========================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #f6f1e8;
+    color: #29251f;
+    font-family: "Playfair Display", serif;
+    line-height: 1.7;
+}
+
+
+/* =========================
+   NAVBAR
+========================= */
+
+.navbar {
+    height: 75px;
+    background: #3f5142;
+    color: #fffdf8;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 7%;
+    direction: ltr;
+
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo {
+    font-size: 21px;
+    letter-spacing: 1px;
+}
+
+.navbar nav {
+    display: flex;
+    gap: 30px;
+}
+
+.navbar a {
+    color: #fffdf8;
+    text-decoration: none;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.navbar a:hover {
+    color: #b89b72;
+}
+
+
+/* =========================
+   HERO
+========================= */
+
+.hero {
+    min-height: 85vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+
+    padding: 80px 20px;
+
+    background:
+        linear-gradient(
+            rgba(246, 241, 232, 0.75),
+            rgba(246, 241, 232, 0.95)
+        ),
+        url("images/hero.jpg");
+
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-content {
+    max-width: 800px;
+}
+
+.small-heading {
+    font-size: 12px;
+    letter-spacing: 4px;
+    color: #8a765c;
+    direction: ltr;
+    margin-bottom: 25px;
+}
+
+.hero h1 {
+    font-family: "Noto Nastaliq Urdu", serif;
+    font-size: clamp(42px, 7vw, 80px);
+    font-weight: 400;
+    line-height: 1.7;
+    color: #3f5142;
+}
+
+.hero-text {
+    font-family: "Noto Nastaliq Urdu", serif;
+    font-size: 20px;
+    max-width: 650px;
+    margin: 20px auto 35px;
+}
+
+
+/* =========================
+   BUTTON
+========================= */
+
+.button {
+    display: inline-block;
+
+    background: #3f5142;
+    color: #fffdf8;
+
+    padding: 12px 28px;
+
+    text-decoration: none;
+
+    border-radius: 2px;
+
+    transition: 0.3s;
+}
+
+.button:hover {
+    background: #29251f;
+    transform: translateY(-2px);
+}
+
+
+/* =========================
+   GENERAL SECTIONS
+========================= */
+
+section {
+    padding: 110px 8%;
+}
+
+.section-label {
+    direction: ltr;
+    text-align: left;
+
+    font-size: 11px;
+    letter-spacing: 4px;
+
+    color: #8a765c;
+
+    margin-bottom: 20px;
+}
+
+
+/* =========================
+   ABOUT
+========================= */
+
+.about {
+    background: #fffdf8;
+}
+
+.about-content {
+    max-width: 850px;
+}
+
+.about-text {
+    direction: ltr;
+    text-align: left;
+}
+
+.about h2 {
+    font-size: 45px;
+    color: #3f5142;
+    margin-bottom: 25px;
+}
+
+.about p {
+    font-size: 16px;
+    margin-bottom: 18px;
+    max-width: 750px;
+}
+
+.text-link {
+    display: inline-block;
+    color: #3f5142;
+    text-decoration: none;
+    margin-top: 10px;
+    border-bottom: 1px solid #b89b72;
+}
+
+
+/* =========================
+   NAYAB
+========================= */
+
+.nayab {
+    background: #e9e4d8;
+    text-align: center;
+}
+
+.nayab-content {
+    max-width: 850px;
+    margin: auto;
+}
+
+.nayab h2 {
+    font-family: "Noto Nastaliq Urdu", serif;
+    font-size: clamp(45px, 7vw, 75px);
+    font-weight: 400;
+    color: #3f5142;
+
+    margin-bottom: 35px;
+}
+
+.urdu-description {
+    direction: rtl;
+
+    font-family: "Noto Nastaliq Urdu", serif;
+    font-size: 19px;
+
+    line-height: 2.6;
+}
+
+.urdu-description p {
+    margin-bottom: 18px;
+}
+
+.urdu-description .ending {
+    color: #3f5142;
+    font-size: 23px;
+    margin-top: 30px;
+}
+
+
+/* =========================
+   EPISODE
+========================= */
+
+.episode {
+    background: #3f5142;
+    color: #fffdf8;
+    text-align: center;
+}
+
+.episode .section-label {
+    color: #b89b72;
+    text-align: center;
+}
+
+.episode h2 {
+    font-family: "Noto Nastaliq Urdu", serif;
+    font-size: 42px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.episode p {
+    margin-bottom: 20px;
+}
+
+.episode .text-link {
+    color: #fffdf8;
+}
+
+
+/* =========================
+   WRITING
+========================= */
+
+.writing {
+    background: #f6f1e8;
+}
+
+.writing h2 {
+    font-size: 45px;
+    color: #3f5142;
+    margin-bottom: 50px;
+    direction: ltr;
+}
+
+.writing-grid {
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+
+    gap: 20px;
+
+    direction: ltr;
+}
+
+.writing-card {
+    background: #fffdf8;
+
+    padding: 35px 25px;
+
+    min-height: 220px;
+
+    border: 1px solid #ded7c9;
+
+    transition: 0.3s;
+}
+
+.writing-card:hover {
+    transform: translateY(-5px);
+}
+
+.writing-card span {
+    color: #b89b72;
+    font-size: 12px;
+}
+
+.writing-card h3 {
+    color: #3f5142;
+    margin: 20px 0 10px;
+}
+
+.writing-card p {
+    font-size: 14px;
+}
+
+
+/* =========================
+   CONTACT
+========================= */
+
+.contact {
+    background: #fffdf8;
+    text-align: center;
+}
+
+.contact .section-label {
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 45px;
+    color: #3f5142;
+    margin-bottom: 15px;
+}
+
+.contact p {
+    margin-bottom: 30px;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    direction: ltr;
+}
+
+.socials a {
+    color: #3f5142;
+    text-decoration: none;
+    border-bottom: 1px solid #b89b72;
+}
+
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+    background: #29251f;
+    color: #fffdf8;
+
+    text-align: center;
+
+    padding: 55px 20px;
+}
+
+.footer-name {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+
+footer p {
+    font-size: 13px;
+    opacity: 0.8;
+}
+
+.copyright {
+    margin-top: 25px;
+    font-size: 11px;
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 800px) {
+
+    .navbar {
+        padding: 0 5%;
+    }
+
+    .navbar nav {
+        gap: 12px;
+    }
+
+    .navbar nav a {
+        font-size: 11px;
+    }
+
+    .logo {
+        font-size: 17px;
+    }
+
+    section {
+        padding: 80px 6%;
+    }
+
+    .writing-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .hero h1 {
+        font-size: 45px;
+    }
+
+    .urdu-description {
+        font-size: 17px;
+    }
+}
+
+
+@media (max-width: 500px) {
+
+    .navbar {
+        height: auto;
+        padding: 18px;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .navbar nav {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .writing-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hero {
+        min-height: 75vh;
+    }
+
+    .about h2,
+    .writing h2,
+    .contact h2 {
+        font-size: 34px;
+    }
+
+    .hero-text {
+        font-size: 17px;
+    }
+}
