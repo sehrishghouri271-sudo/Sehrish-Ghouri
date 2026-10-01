@@ -125,3 +125,32 @@ section a:hover {
 .hero a:hover {
     transform: translateY(-3px);
 }
+.about {
+    background-color: #fffdf8;
+    min-height: auto;
+    padding: 100px 15%;
+    text-align: left;
+}
+
+.about .eyebrow {
+    margin-bottom: 10px;
+}
+
+.about h2 {
+    font-size: 42px;
+    margin-bottom: 30px;
+}
+
+.about p {
+    max-width: 800px;
+    margin-bottom: 18px;
+    font-size: 17px;
+    color: #4f4a42;
+}
+
+.about h3 {
+    margin-top: 35px;
+    font-size: 24px;
+    font-weight: normal;
+    color: #3f5142;
+}
