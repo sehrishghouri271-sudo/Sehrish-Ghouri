@@ -97,6 +97,14 @@ section a:hover {
     justify-content: center;
     align-items: center;
     padding: 100px 30px;
+    text-align: center;
+
+    background-image:
+        linear-gradient(rgba(246, 241, 232, 0.72), rgba(246, 241, 232, 0.72)),
+        url("hero.png");
+
+    background-size: cover;
+    background-position: center;
 }
 
 .eyebrow {
