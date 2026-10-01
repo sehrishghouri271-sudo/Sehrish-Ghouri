@@ -310,3 +310,46 @@ section a:hover {
 .latest-content a:hover {
     color: #b89b72;
 }
+.contact {
+    padding: 100px 20px;
+    background-color: #fffdf8;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 45px;
+    font-weight: normal;
+    color: #3f5142;
+    margin: 15px 0 25px;
+}
+
+.contact > p:not(.eyebrow) {
+    max-width: 600px;
+    margin: 0 auto 35px;
+    color: #5d574e;
+    font-size: 17px;
+}
+
+.contact-links {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+
+.contact-links a {
+    color: #3f5142;
+    text-decoration: none;
+    border-bottom: 1px solid #b89b72;
+    padding-bottom: 4px;
+}
+
+.contact-links a:hover {
+    color: #8a765c;
+}
+
+@media (max-width: 550px) {
+    .contact-links {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
