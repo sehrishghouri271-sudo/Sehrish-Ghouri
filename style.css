@@ -193,3 +193,69 @@ section a:hover {
 .featured a:hover {
     background-color: #29251f;
 }
+.writing {
+    background-color: #fffdf8;
+    padding: 100px 8%;
+    text-align: center;
+}
+
+.writing h2 {
+    font-size: 45px;
+    font-weight: normal;
+    color: #3f5142;
+    margin: 15px 0 50px;
+}
+
+.writing-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+    max-width: 1100px;
+    margin: auto;
+}
+
+.writing-card {
+    background-color: #f6f1e8;
+    padding: 35px 25px;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.writing-card h3 {
+    font-size: 25px;
+    font-weight: normal;
+    color: #3f5142;
+    margin-bottom: 15px;
+}
+
+.writing-card p {
+    font-size: 15px;
+    color: #5d574e;
+    margin-bottom: 25px;
+}
+
+.writing-card a {
+    color: #3f5142;
+    text-decoration: none;
+    border-bottom: 1px solid #8a765c;
+    padding-bottom: 3px;
+}
+
+.writing-card a:hover {
+    color: #8a765c;
+}
+
+@media (max-width: 900px) {
+    .writing-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 550px) {
+    .writing-grid {
+        grid-template-columns: 1fr;
+    }
+}
